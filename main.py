@@ -26,7 +26,6 @@ planet_distance_au = st.sidebar.slider(
     "행성 거리 (AU)", min_value=0.1, max_value=10.0, value=1.0, step=0.1
 )
 
----
 
 ## 중력 렌즈 효과 시각화 (개념적)
 
